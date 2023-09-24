@@ -5,3 +5,8 @@ This app simulates standing waves to predict a frequency response when listening
 Note that the simulation is somewhat simplistic and its correctness is questionable. Remember also that the frequency response is only one aspect of room acoustics.
 
 ![Screen capture](./demo.png)
+
+## Running in development mode
+
+- `npm install`
+- `npm start`
